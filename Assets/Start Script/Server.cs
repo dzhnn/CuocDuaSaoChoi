@@ -193,7 +193,7 @@ public class Server : MonoBehaviour
                 {
                     Debug.Log("Đang bị cấm di chuyển");
                 }
-                else if (gc.atSchool )// thêm biến đếm số lần max roll???
+                else if (gc.atSchool )
                 {
                     BroadcastS("SDice|" + aData[1], clients);
                     if (aData[1] == "5" || aData[1] == "6")
