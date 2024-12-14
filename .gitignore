@@ -1,0 +1,14 @@
+# Unity auto-generated files
+Library/
+Temp/
+Logs/
+MemoryCaptures/
+
+# Visual Studio files
+.vscode/
+*.csproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
